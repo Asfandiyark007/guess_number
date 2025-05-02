@@ -30,17 +30,11 @@ A simple yet engaging Python-based number guessing game where players try to gue
 
 ## Screenshots
 
-> To enhance this README, add the following screenshots to the `images` folder:
-> 1. `game_start.png` - Screenshot of the game's welcome screen and difficulty selection
-> 2. `gameplay.png` - Screenshot showing the game in action with some guesses
-> 3. `win_screen.png` - Screenshot of a winning game
-> 4. `lose_screen.png` - Screenshot of a lost game
-
-<!-- Add screenshots here once they're available:
-![Game Start](images/game_start.png)
-![Win Screen](images/win_screen.png)
+ 1. `game_start.png` - Screenshot of the game's welcome screen and difficulty selection ![Game Start](images/game_start.png)
+ 2. `win_screen.png` - Screenshot of a winning game  ![Win Screen](images/win_screen.png)
+ 3. `lose_screen.png` - Screenshot of a lost game
 ![Lose Screen](images/lose_screen.png)
--->
+
 
 ## Requirements
 
