@@ -83,7 +83,6 @@ elif select == 3:
     for i in range(hard):
         numb = int(input("Enter your guess:"))
         Result = check_result(numb, i)
-        print("debug: Result=", Result)
         if Result is True:
             break
     print("The Correct number was: ", answer)
